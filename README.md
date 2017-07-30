@@ -1,5 +1,7 @@
 TS Boilerplate
 ==============
+[![Build Status](https://travis-ci.org/fongandrew/ts-boilerplate.svg?branch=master)](https://travis-ci.org/fongandrew/ts-boilerplate)
+
 Boilerplate code for NPM package written in TypeScript
 
 Supports:
@@ -7,3 +9,4 @@ Supports:
 * Testing with blue-tape and sinon
 * Linting with tslint
 * Makefile driven CLI
+* Travis CI
